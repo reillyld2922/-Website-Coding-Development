@@ -8,7 +8,6 @@ Our (My) project in one sentence:
 
 My website is a lost and found portal that allows students and staff to report missing items, browse found items, submit ownership claims, and manage unclaimed property.
 
-## 1. Features
 
 | Feature | Need it serves | Group | Size |
 |---|---|---|---|
@@ -23,8 +22,6 @@ My website is a lost and found portal that allows students and staff to report m
 | Unclaimed items can automatically be archived after a set number of days. | Keeps old listings from cluttering the website. | Should-have | M |
 | Users can receive email verification when submitting claims. | Adds another way to verify claims. | Stretch | L |
 
-## 2. Rating Sheet Check
-
 | Rating sheet line | Where my plan covers it |
 |---|---|
 | Separate HTML, CSS, and JavaScript files | The website will use separate files for HTML, CSS, and JavaScript. |
@@ -34,7 +31,6 @@ My website is a lost and found portal that allows students and staff to report m
 | Error-free interactivity | I will test the search, filters, forms, claims, and admin controls to make sure they work correctly. |
 | No templates | All of the website's code and page designs will be made by me without using prebuilt website templates. |
 
-## 3. Tools
 
 | Option | Fit | Learn | Industry | Free | Offline | Total |
 |---|---:|---:|---:|---:|---:|---:|
@@ -42,15 +38,9 @@ My website is a lost and found portal that allows students and staff to report m
 | Python with Flask and HTML/CSS | 4 | 3 | 5 | 5 | 5 | 22 |
 | PHP, HTML, and CSS | 4 | 3 | 4 | 5 | 5 | 21 |
 
-**Our choice and why:**
+**my choice and why:**
 
 I chose HTML, CSS, and JavaScript with Node.js because I think they provide the flexibility needed for this project. Visual Studio Code will be my IDE, and Git will provide version control so I can keep track of changes. I plan to use JavaScript libraries when needed, but I want to keep the code modular and avoid adding unnecessary dependencies. I didn't choose Flask or PHP because I'm more familiar with JavaScript and would rather keep the project using one main programming language.
-
-**Tech spike results:**
-
-- HTML, CSS, JavaScript, and Node.js: [Add results from testing.]
-- Python with Flask: [Add results from testing.]
-- PHP: [Add results from testing.]
 
 **Libraries, templates, and assets I'm planning to use:**
 
@@ -59,8 +49,6 @@ I chose HTML, CSS, and JavaScript with Node.js because I think they provide the 
 - Additional libraries will be documented if I end up needing them.
 - All website layouts, styling, and code will be original.
 - No prebuilt website templates will be used.
-
-## 4. Timeline
 
 | Week | Feature or task |
 |---|---|
@@ -73,7 +61,6 @@ I chose HTML, CSS, and JavaScript with Node.js because I think they provide the 
 | 12 | Clean up the code, fix inconsistencies, and improve accessibility and styling. |
 | 13 | Test the website on desktop, tablet, and mobile. Fix remaining bugs and prepare the final version without adding new features. |
 
-## 5. Risks
 
 | Risk | What we will do |
 |---|---|
